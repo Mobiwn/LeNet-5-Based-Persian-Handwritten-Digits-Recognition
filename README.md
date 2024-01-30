@@ -1,11 +1,11 @@
 # 🖋️ Persian Handwritten Digit Recognition with LeNet-5 🧠
 
 Author: Mobin Kheibary  
-Date: January, 2034
+Date: January, 2024
 
 ## Overview
 
-Welcome to the Persian Handwritten Digit Recognition project! This project focuses on the classification of Persian handwritten digits using the LeNet-5 convolutional neural network. Through this project, I aim to contribute to my overall understanding of how is it possible to use the well known LeNet-5 architecture for solving different real-world problems.
+Welcome to the Persian Handwritten Digit Recognition project! This project focuses on the classification of Persian handwritten digits using the LeNet-5 convolutional neural network. Through this project, my objective is to enhance my comprehension of leveraging the renowned LeNet-5 architecture for addressing diverse real-world challenges.
 
 ## Features
 
