@@ -47,7 +47,7 @@ This dataset is a valuable resource for training and testing machine learning mo
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/persian-digit-recognition.git
+    git clone https://github.com/Mobiwn/LeNet-5-Based-Persian-Handwritten-Digits-Recognition
     ```
 
 2. Install the required dependencies:
@@ -59,7 +59,7 @@ This dataset is a valuable resource for training and testing machine learning mo
 3. Run the Jupyter Notebook:
 
     ```bash
-    jupyter notebook persian_digit_recognition.ipynb
+    jupyter notebook Presian-Digits-Recognition-With-LeNet-5.ipynb
     ```
 
 4. Execute the notebook cells sequentially to train the model and evaluate its performance.
